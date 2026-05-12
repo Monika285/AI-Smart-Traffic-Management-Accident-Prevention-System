@@ -46,7 +46,8 @@ AI & Computer Vision
 OpenCV
 YOLOv8 Object Detection
 OCR for Number Plate Recognition
-##AI Modules
+## AI Modules
+
 1. Traffic Density Detection
 Vehicle counting from camera feeds
 Dynamic signal timing based on congestion
