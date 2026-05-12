@@ -32,7 +32,8 @@ This project provides a real-time intelligent solution using AI-driven monitorin
 
 ## 🛠️ Tech Stack
 
-##Frontend
+## Frontend
+
 Next.js
 Tailwind CSS
 React Dashboard UI
@@ -54,7 +55,8 @@ Emergency vehicle recognition
 Automatic signal override system
 3. Accident Detection
 
-##Multi-condition AI logic:
+## Multi-condition AI logic:
+
 
 Sudden vehicle stop
 Collision overlap
