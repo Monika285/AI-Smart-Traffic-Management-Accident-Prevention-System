@@ -32,7 +32,7 @@ This project provides a real-time intelligent solution using AI-driven monitorin
 
 ## 🛠️ Tech Stack
 
-###Frontend
+##Frontend
 Next.js
 Tailwind CSS
 React Dashboard UI
@@ -45,7 +45,7 @@ AI & Computer Vision
 OpenCV
 YOLOv8 Object Detection
 OCR for Number Plate Recognition
-###AI Modules
+##AI Modules
 1. Traffic Density Detection
 Vehicle counting from camera feeds
 Dynamic signal timing based on congestion
@@ -54,7 +54,7 @@ Emergency vehicle recognition
 Automatic signal override system
 3. Accident Detection
 
-###Multi-condition AI logic:
+##Multi-condition AI logic:
 
 Sudden vehicle stop
 Collision overlap
