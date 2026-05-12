@@ -32,19 +32,43 @@ This project provides a real-time intelligent solution using AI-driven monitorin
 
 ## 🛠️ Tech Stack
 
-### Frontend
-- Next.js
-- React.js
-- TypeScript
-- Tailwind CSS
+###Frontend
+Next.js
+Tailwind CSS
+React Dashboard UI
+Framer Motion Animations
+Backend
+Python
+Flask / FastAPI
+Firebase / MongoDB
+AI & Computer Vision
+OpenCV
+YOLOv8 Object Detection
+OCR for Number Plate Recognition
+###AI Modules
+1. Traffic Density Detection
+Vehicle counting from camera feeds
+Dynamic signal timing based on congestion
+2. Ambulance Detection
+Emergency vehicle recognition
+Automatic signal override system
+3. Accident Detection
 
-### UI Components
-- Shadcn UI
-- Lucide React Icons
+###Multi-condition AI logic:
 
-### Deployment
-- Vercel
+Sudden vehicle stop
+Collision overlap
+No movement after impact
+Abnormal vehicle orientation
+4. Violation Detection
+Red light crossing detection
+Automatic number plate extraction
+Emergency Alert System
+SMS API integration using Twilio/Fast2SMS
+Sends accident alerts to nearby hospitals and authorities
+System Architecture
 
+Camera Feed → AI Processing → Decision Engine → Dashboard & Alerts
 ---
 
 ## 🎯 Objectives
