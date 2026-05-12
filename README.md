@@ -62,10 +62,3 @@ This project provides a real-time intelligent solution using AI-driven monitorin
 <img width="1599" height="858" alt="image" src="https://github.com/user-attachments/assets/9e391f27-4af3-41d1-97cf-fc688a3b9971" />
 
 
-
-## 🚀 Installation & Setup
-
-Clone the repository:
-
-```bash
-git clone https://github.com/Monika285/AI-Smart-Traffic-Management-Accident-Prevention-System.git
